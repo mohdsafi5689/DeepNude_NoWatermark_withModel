@@ -56,16 +56,13 @@ python main.py
 
 # Models
 
+在运行之前需下载三个.lib文件，之后在项目根目录下新建checkpoints目录，将下载的三个文件放至checkpoints目录下。
+
+友情提供以下两种下载渠道：
+
 * [百度网盘链接](https://pan.baidu.com/s/1YjAbLQX9zLXHJ18U2oEn0Q) 提取码: 9jdw
 
-* ~~[CLI Checkpoints](https://drive.google.com/open?id=1w6ZO47To4BGh67WjeFCTBZiGVMFrK_po): *在运行之前需下载三个.lib文件，之后在项目根目录下新建checkpoints目录，将下载的三个文件放至checkpoints目录下~~*
-
-* [磁力链接](magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC)：
-```
-magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC
-```
-
-~~若以上Google drive链接挂了可使用该链接。下载速度还蛮快的:)~~
+* [磁力链接](magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC)：```magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC```
 
 
 # Launch the script
@@ -78,8 +75,7 @@ magnet:?xt=urn:btih:7BE4EB8D640742D2FFEBD6495E9392E9E2C399BC
 
 The script will transform *input.png* to *output.png*.
 
-~~**如果想要使用自己的图片进行测试，需手动将图片尺寸调整至512x512大小，否则会报错！！**~~
-[#issue 5](https://github.com/zhengyima/DeepNude_NoWatermark_withModel/issues/5) 
+
 
 
 # GPU
