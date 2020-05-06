@@ -25,6 +25,9 @@ Before launch the script install these packages in your **Python3** environment:
 - pytorch 
 - torchvision
 - wheel
+```
+pip3 install numpy pillow setuptools six pytorch torchvision wheel
+```
 
 建议使用Conda安装 :) 
 
