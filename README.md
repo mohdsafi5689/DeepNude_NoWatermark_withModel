@@ -45,7 +45,7 @@ pip3 install numpy pillow setuptools six pytorch torchvision wheel
 ```bash
 cd ~
 
-git clone https://github.com/zhengyima/DeepNude_NoWatermark_withModel.git deepnude
+git clone https://github.com/zhengyima/DeepNude_NoWatermark_withModel.git --depth 1 deepnude
 
 cd deepnude
 
