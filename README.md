@@ -25,6 +25,9 @@ Before launch the script install these packages in your **Python3** environment:
 - pytorch 
 - torchvision
 - wheel
+```
+pip3 install numpy pillow setuptools six pytorch torchvision wheel
+```
 
 建议使用Conda安装 :) 
 
@@ -42,7 +45,7 @@ Before launch the script install these packages in your **Python3** environment:
 ```bash
 cd ~
 
-git clone https://github.com/zhengyima/DeepNude_NoWatermark_withModel.git deepnude
+git clone https://github.com/zhengyima/DeepNude_NoWatermark_withModel.git --depth 1 deepnude
 
 cd deepnude
 
