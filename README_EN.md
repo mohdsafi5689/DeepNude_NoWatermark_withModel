@@ -22,6 +22,10 @@ Before launch the script install these packages in your **Python3** environment:
 - torchvision
 - wheel
 
+```
+pip3 install numpy pilliow setuptools six pytorch torchvision wheel
+```
+
 Tips: use Anaconda to install, with the following command  :) 
 
 
